@@ -10,3 +10,6 @@
   <img align="center" alt="Bárbara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+![Snake animation](https://github.com/barbara-pr/barbara-pr/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=barbara-pr&repo=barbara-pr&theme=react)](https://github.com/barbara-pr/barbara-pr)
