@@ -2,7 +2,7 @@
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbara-pr&show_icons=true&count_private=true&hide_border=false&title_color=FFC0CB&icon_color=87CEFA&text_color=DCDCDC&bg_color=000000" alt="Bárbara github stats"/><br>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&layout=compact&hide_border=false&title_color=FFC0CB&bg_color=000000"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&layout=compact&hide_border=false&title_color=FFC0CB&bg_color=000000"/>
 </div> 
 
 <div style="display: inline_block"><br>
@@ -11,5 +11,3 @@
 </div>
   
 ![Snake animation](https://github.com/barbara-pr/barbara-pr/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=barbara-pr&repo=barbara-pr&theme=react)](https://github.com/barbara-pr/barbara-pr)
