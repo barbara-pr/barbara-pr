@@ -1,7 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5F5F5&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Bárbara.;Estou+iniciando+na+programação.+:%29)](https://git.io/typing.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5F5F5&size=35&center=true&vCenter=true&width=1000&lines=Cursando+Análise+e+Desenvolvimento+de+Sistemas.+:%29)](https://git.io/typing.svg)
+
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=FFC0CB&style=for-the-badge"/>
+</p>
 
 <div align="center">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&layout=compact&hide_border=false&title_color=FFC0CB&bg_color=000000"/>
+    <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&layout=compact&hide_border=false&title_color=FFC0CB&bg_color=000000"/>
 </div> 
 
 <div style="display: inline_block"><br>
