@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5F5F5&size=35&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas.+:%29)](https://git.io/typing.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=708090&size=35&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing.svg)
 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=FFC0CB&style=for-the-badge"/>
