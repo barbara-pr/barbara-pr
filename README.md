@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFAFA&height=120&section=header"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFAFA&height=120&section=header"/>-->
 
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=000000&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20LOADING&color=000000&style=for-the-badge"/>
 </p>
 
 <div align="center">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&layout=compact&hide_border=false&title_color=F5FFFA&bg_color=000000"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&layout=compact&hide_border=false&title_color=F5FFFA&bg_color=000000"/>
     <br>
     <br>
 </div> 
@@ -18,4 +18,4 @@
     <img align="center" alt="Bárbara-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFAFA&height=120&section=footer"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFAFA&height=120&section=footer"/>-->
