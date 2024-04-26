@@ -2,7 +2,6 @@
 
 <img src="https://img.shields.io/static/v1?label=STATUS&message=EM DESENVOLVIMENTO&color=000000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computador" min-width="150px" max-width="150px" width="150px" align="right">
 
 <div align="left">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&layout=compact&hide_border=false&title_color=F5FFFA&bg_color=000000"/>
@@ -10,12 +9,13 @@
     <br>
 </div> 
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computador" min-width="150px" max-width="150px" width="150px" align="right">
+
 ```js
 class SobreMim extends Desenvolvedor {
   nome = "Bárbara";
-  area = "Análise e Desenvolvimento de Sistemas";
+  area = "ADS";
   interesse = "Back-end";
-  local = "Nova Friburgo, RJ";
 }
 ```
 
