@@ -8,7 +8,7 @@
     <br>
 </div> 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computador" min-width="230px" max-width="230px" width="230px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computador" min-width="150px" max-width="150px" width="150px" align="right">
 
 ```js
 class SobreMim extends Desenvolvedor {
