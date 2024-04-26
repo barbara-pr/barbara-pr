@@ -26,7 +26,7 @@ class SobreMim extends Desenvolvedor {
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/barbara-pr" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/barbara-pr" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbara-pr" alt="LinkedIn"/></a>
 </p>
 
