@@ -11,10 +11,10 @@
 
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computador" min-width="150px" max-width="150px" width="150px" align="right">-->
 
-<img src="https://github.com/barbara-pr/barbara-pr/assets/154994297/58715bba-eb26-4354-bad7-1e1754f44b3a" alt="computador" min-width="130px" max-width="130px" width="130px" align="right">
+<img src="https://github.com/barbara-pr/barbara-pr/assets/154994297/58715bba-eb26-4354-bad7-1e1754f44b3a" alt="myOctocat" min-width="100px" max-width="100px" width="100px" align="right">
 
 ```js
-class SobreMim extends Desenvolvedor {
+class SobreMim extends Dev {
   nome = "Bárbara";
   area = "ADS";
 }
