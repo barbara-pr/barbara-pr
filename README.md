@@ -4,9 +4,9 @@
 
 
 <div align="left">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&layout=compact&hide_border=false&title_color=F5FFFA&bg_color=000000"/>
-    <br>
-    <br>
+    
+[![barbara-pr](https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&hide=html&layout=compact&&hide_border=true&title_color=F5FFFA&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+    
 </div> 
 
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computador" min-width="150px" max-width="150px" width="150px" align="right">-->
@@ -22,6 +22,7 @@ class SobreMim extends Dev {
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="JAVA"/></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JAVASCRIPT"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
