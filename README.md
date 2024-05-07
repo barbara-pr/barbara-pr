@@ -5,7 +5,7 @@
 
 <div align="left">
     
-[![barbara-pr](https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&hide=html&layout=compact&&hide_border=true&title_color=F5FFFA&bg_color=000000)]
+![barbara-pr](https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&hide=html&layout=compact&&hide_border=true&title_color=F5FFFA&bg_color=000000)
     
 </div> 
 
