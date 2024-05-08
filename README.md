@@ -4,14 +4,12 @@
 
 
 <div align="left">
-    
-![barbara-pr](https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&hide=html&layout=compact&&hide_border=true&title_color=F5FFFA&bg_color=000000)
+
+![barbara-pr](https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&layout=compact&hide_border=true&title_color=F5FFFA&bg_color=000000)
     
 </div> 
 
-<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computador" min-width="150px" max-width="150px" width="150px" align="right">-->
-
-<img src="https://github.com/barbara-pr/barbara-pr/assets/154994297/58715bba-eb26-4354-bad7-1e1754f44b3a" alt="myOctocat" min-width="100px" max-width="100px" width="100px" align="right">
+<img src="https://github.com/barbara-pr/barbara-pr/assets/154994297/58715bba-eb26-4354-bad7-1e1754f44b3a" alt="myOctocat" min-width="95px" max-width="95px" width="95px" align="right">
 
 ```js
 class SobreMim extends Dev {
