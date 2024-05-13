@@ -3,27 +3,30 @@
 <img src="https://img.shields.io/static/v1?label=STATUS&message=EM DESENVOLVIMENTO&color=000000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 
-<div align="left">
 
-![barbara-pr](https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&layout=compact&hide_border=true&title_color=F5FFFA&bg_color=000000)
+
+
+<img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="Github Stats"
+/>
     
-</div> 
-
-<img src="https://github.com/barbara-pr/barbara-pr/assets/154994297/58715bba-eb26-4354-bad7-1e1754f44b3a" alt="myOctocat" min-width="95px" max-width="95px" width="95px" align="right">
 
 ```js
-class SobreMim extends Dev {
-  nome = "Bárbara";
-  area = "ADS";
+class Estudos extends Dev {
+  faculdade = "ADS";
+  bootcamp = "Java";
+  curso = "Técnico em ADM";
 }
 ```
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<!--<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="JAVA"/></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JAVASCRIPT"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>-->
 
 <p align="left">
   <a href="https://www.linkedin.com/in/barbara-pr" target="_blank" title="LinkedIn">
