@@ -1,4 +1,4 @@
-## ⭐ Olá, meu nome é Bárbara!
+### ⭐ Olá, meu nome é Bárbara!
 
 <img src="https://img.shields.io/static/v1?label=STATUS&message=EM DESENVOLVIMENTO&color=000000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
@@ -6,7 +6,7 @@
 
 ### Sobre mim
 
-- 🎓 Estudando Análise e Desenvovlivmento de Sistemas.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas.
 
 ### Aprendendo
 
