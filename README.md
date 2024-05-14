@@ -1,14 +1,14 @@
-### ⭐ Olá, meu nome é Bárbara!
+### ⭐ Welcome to my profile!
 
-<img src="https://img.shields.io/static/v1?label=STATUS&message=EM DESENVOLVIMENTO&color=000000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=STATUS&message=LOADING&color=000000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&theme=dark&color=000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
 
-### Sobre mim
+### About me
 
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas.
+- 🎓 I'm a systems analysis and development student.
 
-### Aprendendo
+### Learning
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
