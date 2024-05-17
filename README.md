@@ -20,7 +20,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=barbara-pr&bg_color=000000&color=b1c3c8&line=f5f5f5&point=b1c3c8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 
+### Connect with me 
 <p align="left">
   <a href="https://www.linkedin.com/in/barbara-pr" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbara-pr" alt="LinkedIn"/></a>
