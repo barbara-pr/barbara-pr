@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/static/v1?label=STATUS&message=LOADING&color=000000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&theme=dark&color=000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
 
 ### About me
 
