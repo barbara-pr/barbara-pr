@@ -6,7 +6,7 @@
 
 ### About me
 
-- 🎓 I'm a systems analysis and development student.
+- 🎓 I'm an information systems student.
 
 ### Learning
 
