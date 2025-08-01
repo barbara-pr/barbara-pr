@@ -11,14 +11,12 @@
 ### Learning
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=barbara-pr&bg_color=000000&color=b1c3c8&line=f5f5f5&point=b1c3c8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 ### Connect with me 
