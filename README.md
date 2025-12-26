@@ -7,11 +7,6 @@ Atualmente, utilizo este GitHub para compartilhar meus estudos, projetos acadêm
 
 ---
 
-### 🎓 Formação
-- Sistemas de Informação — graduação em andamento
-
----
-
 ### 💻 Tecnologias em aprendizado
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=007396)
 ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c)
@@ -19,19 +14,6 @@ Atualmente, utilizo este GitHub para compartilhar meus estudos, projetos acadêm
 ![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
-
----
-
-### 📌 O que você vai encontrar aqui
-- Projetos acadêmicos  
-- Exercícios práticos de programação  
-- Estudos sobre lógica, POO e banco de dados  
-- Projetos em evolução (em constante melhoria)
-
----
-
-### 📊 Estatísticas
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pr&theme=dark&layout=compact" alt="Top Langs"/>
 
 ---
 
